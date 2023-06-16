@@ -1010,7 +1010,7 @@ PrefabInstance:
     - target: {fileID: 3855397916406632481, guid: 342a1b253568e854f9a2e953d07332d3,
         type: 3}
       propertyPath: m_Name
-      value: ScoreTex
+      value: RightHandGun
       objectReference: {fileID: 0}
     - target: {fileID: 3855397916406632483, guid: 342a1b253568e854f9a2e953d07332d3,
         type: 3}
@@ -4656,6 +4656,21 @@ MonoBehaviour:
   laserAnimator: {fileID: 1421415435}
   laserSFX: {fileID: 8300000, guid: fa5f15d5c001e1249a46f30914256f91, type: 3}
   raycastOrigin: {fileID: 1974179840}
+--- !u!114 &1719122811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1719122805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c8024ade57132b4b81ad6ce81dcaf07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  originPose:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &1770183503
 GameObject:
   m_ObjectHideFlags: 0
