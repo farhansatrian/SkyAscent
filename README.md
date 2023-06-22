@@ -13,11 +13,11 @@ Cara Bermain:
 5. Peroleh Skor Tertinggi
 
 Berikut adalah petunjuk untuk mengunduh dan menginstal Sky Ascent VR APK (SideQuest):
-Langkah 1: Unduh APK Sky Ascent VR
-Langkah 2: Izinkan Sumber Tidak Dikenal
-Langkah 3: Temukan File APK
-Langkah 4: Instal APK
-Langkah 5: Selesai
+1. Unduh APK Sky Ascent VR
+2. Izinkan Sumber Tidak Dikenal
+3. Temukan File APK
+4. Instal APK
+5. Selesai
 
 Link Itch.io = https://chikalfch.itch.io/skyascent
 Link Trailer = https://youtu.be/GWQXnL825TE
