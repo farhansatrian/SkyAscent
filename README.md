@@ -20,5 +20,6 @@ Berikut adalah petunjuk untuk mengunduh dan menginstal Sky Ascent VR APK (SideQu
 5. Selesai
 
 Link Itch.io = https://chikalfch.itch.io/skyascent <br>
-Link Trailer = https://youtu.be/GWQXnL825TE <br>
+Link Video Game Trailer : https://youtu.be/DH-8tmZsAzI <br>
+Link Video Game Promosi : https://youtu.be/GWQXnL825TE <br>
 Link Project = https://telkomuniversityofficial-my.sharepoint.com/:f:/g/personal/farhansatria_student_telkomuniversity_ac_id/ElRx5vkC7dZPuDHk9P8lIDwBnQ0jRPt2KpnNY4sHwqXxBA?e=b1QHTk
